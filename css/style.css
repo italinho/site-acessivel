@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+
+
+header{
+    background: black;
+    
+}
+
+h1{
+    text-transform: uppercase;
+    color: white;
+    text-align: start;
+    font-family: sans-serif;
+}
+fieldset{
+    display: inline;
+    box-sizing: border-box;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+
+    
+}
+
+.label-partida{
+
+    color: red;    
+
+
+
+}
+.labelname{
+    
+     color: blue;
+}
+.label-destino{
+    
+    color: orange;
+}
+.labeltelefone{
+    color: pink;
+}
+.labelemail{
+    color: green;
+}
+
+.input1{
+    height: 40px;
+    border-color: red;
+    
+}
+.input2{
+    height: 40px;
+    border-color: orange;
+}
+.inputname{
+    height: 40px;
+    border-color: blue;
+}
+.input-telefone{
+     height: 40px;
+     border-color: pink;
+}
+.input-email{
+    height: 40px;
+    border-color: green;
+}
+.confirm{
+
+    color: white;
+    height: 40px;
+    background-color: darkslateblue;
+    font-size: 20px;
+
+}
